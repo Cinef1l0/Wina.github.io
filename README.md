@@ -1,2 +1,0 @@
-# Wina.github.io
-pages
